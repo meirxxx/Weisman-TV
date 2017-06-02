@@ -1,0 +1,24 @@
+# Weisman-TV
+#EXTM3U
+#EXTINF:10.000,---------- WEISMAN. TV ----------
+http://whatever.ts
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=646000,RESOLUTION=640x360,CODECS="avc1.77.30, mp4a.40.2"
+http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/index_550_av-p.m3u8?sd=10&rebase=on
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=646000,RESOLUTION=640x360,CODECS="avc1.77.30, mp4a.40.2"
+http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/index_550_av-b.m3u8?sd=10&rebase=on
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=945000,RESOLUTION=768x432,CODECS="avc1.77.30, mp4a.40.2"
+http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/index_850_av-p.m3u8?sd=10&rebase=on
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=945000,RESOLUTION=768x432,CODECS="avc1.77.30, mp4a.40.2"
+http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/index_850_av-b.m3u8?sd=10&rebase=on
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1496000,RESOLUTION=1024x576,CODECS="avc1.77.30, mp4a.40.2"
+http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/index_1400_av-p.m3u8?sd=10&rebase=on
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1496000,RESOLUTION=1024x576,CODECS="avc1.77.30, mp4a.40.2"
+http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/index_1400_av-b.m3u8?sd=10&rebase=on
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2296000,RESOLUTION=1280x720,CODECS="avc1.77.30, mp4a.40.2"
+http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/index_2200_av-p.m3u8?sd=10&rebase=on
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2296000,RESOLUTION=1280x720,CODECS="avc1.77.30, mp4a.40.2"
+http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/index_2200_av-b.m3u8?sd=10&rebase=on
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=96000,CODECS="mp4a.40.2"
+http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/index_550_a-p.m3u8?sd=10&rebase=on
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=96000,CODECS="mp4a.40.2"
+http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/index_550_a-b.m3u8?sd=10&rebase=on
