@@ -79,3 +79,11 @@ http://link.softiptv.com:2500/live/karl/karl/4917.ts
 http://link.softiptv.com:2500/live/karl/karl/5338.ts
 #EXTINF:-1,VIP IL: Nickelodeon
 http://link.softiptv.com:2500/live/karl/karl/5263.ts
+#EXTINF:-1,CANAL ORBE21
+http://93.158.220.145:5001/play/a05u
+#EXTINF:-1,BEINLALIGA8
+http://93.158.220.145:5001/play/a05i
+#EXTINF:-1,ES | FOX LIFE HD
+http://93.158.220.145:5001/play/a05c
+#EXTINF:-1,ES | COMEDYCENTRALHD
+http://93.158.220.145:5001/play/a05g
