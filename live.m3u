@@ -1,4 +1,36 @@
 #EXTM3U
 #EXTINF:-1,---------- WEISMAN. TV ----------
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2296000,RESOLUTION=1280x720,CODECS="avc1.77.30, mp4a.40.2"
-http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/index_2200_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,VIP IL: YES SPORT2 HD
+http://link.softiptv.com:2500/live/karl/karl/4927.ts
+#EXTINF:-1,VIP IL: YES SPORT1 HD
+http://link.softiptv.com:2500/live/karl/karl/4926.ts
+#EXTINF:-1,VIP IL: HOP iptvsource_com
+http://link.softiptv.com:2500/live/karl/karl/4924.ts
+#EXTINF:-1,VIP IL: YES 4 HD
+http://link.softiptv.com:2500/live/karl/karl/4923.ts
+#EXTINF:-1,VIP IL: YES 3 HD
+http://link.softiptv.com:2500/live/karl/karl/4922.ts
+#EXTINF:-1,VIP IL: YES 2 HD
+http://link.softiptv.com:2500/live/karl/karl/4921.ts
+#EXTINF:-1,VIP IL: YES 1 HD
+http://link.softiptv.com:2500/live/karl/karl/4920.ts
+#EXTINF:-1,VIP IL: ONE HD
+http://link.softiptv.com:2500/live/karl/karl/4925.ts
+#EXTINF:-1,VIP IL: GOLD HD
+http://link.softiptv.com:2500/live/karl/karl/4915.ts
+#EXTINF:-1,VIP IL: HOT3 HD
+http://link.softiptv.com:2500/live/karl/karl/4937.ts
+#EXTINF:-1,VIP IL: BABY TV
+http://link.softiptv.com:2500/live/karl/karl/5422.ts
+#EXTINF:-1,VIP IL: Channel 9
+http://link.softiptv.com:2500/live/karl/karl/4918.ts
+#EXTINF:-1,VIP IL: Channel 20
+http://link.softiptv.com:2500/live/karl/karl/4919.ts
+#EXTINF:-1,VIP IL: Channel 2
+http://link.softiptv.com:2500/live/karl/karl/4916.ts
+#EXTINF:-1,VIP IL: Channel 10
+http://link.softiptv.com:2500/live/karl/karl/4917.ts
+#EXTINF:-1,VIP IL: Nick Jr
+http://link.softiptv.com:2500/live/karl/karl/5338.ts
+#EXTINF:-1,VIP IL: Nickelodeon
+http://link.softiptv.com:2500/live/karl/karl/5263.ts
