@@ -1,89 +1,50 @@
 # Weisman-TV
 #EXTM3U
 #EXTINF:-1,  ▃ ▄ ▅ ▆ ▇ █ WEISMAN TV █ ▇ ▆ ▅ ▄ ▃
-#EXTINF:-1,ISR=HOT-Action-HD
-http://iptv-star.com:50100/live/skype:iptv-star@hotmail.com/rRzUZJfpxD/1556.ts
-#EXTINF:-1,ISR=HOT-Entertainment-HD
-http://iptv-star.com:50100/live/skype:iptv-star@hotmail.com/rRzUZJfpxD/1559.ts
-#EXTINF:-1,ISR=HOT-Gold-HD
-http://iptv-star.com:50100/live/skype:iptv-star@hotmail.com/rRzUZJfpxD/1554.ts
-#EXTINF:-1,ISR=HOT-Plus-HD
-http://iptv-star.com:50100/live/skype:iptv-star@hotmail.com/rRzUZJfpxD/1552.ts
-#EXTINF:-1,ISR=HOT-Zone-HD
-http://iptv-star.com:50100/live/skype:iptv-star@hotmail.com/rRzUZJfpxD/1553.ts
-#EXTINF:-1,ISR=ONE-HD
-http://iptv-star.com:50100/live/skype:iptv-star@hotmail.com/rRzUZJfpxD/1551.ts
-#EXTINF:-1,ISR=YES-1-HD
-http://iptv-star.com:50100/live/skype:iptv-star@hotmail.com/rRzUZJfpxD/1540.ts
-#EXTINF:-1,ISR=YES-2-HD
-http://iptv-star.com:50100/live/skype:iptv-star@hotmail.com/rRzUZJfpxD/1541.ts
-#EXTINF:-1,ISR=YES-3-HD
-http://iptv-star.com:50100/live/skype:iptv-star@hotmail.com/rRzUZJfpxD/1542.ts
-#EXTINF:-1,ISR=YES-4-HD
-http://iptv-star.com:50100/live/skype:iptv-star@hotmail.com/rRzUZJfpxD/1543.ts
-#EXTINF:-1,ISR=YES-5-HD
-http://iptv-star.com:50100/live/skype:iptv-star@hotmail.com/rRzUZJfpxD/1544.ts
-#EXTINF:-1,ISR=YES-Action-HD
-http://iptv-star.com:50100/live/skype:iptv-star@hotmail.com/rRzUZJfpxD/1545.ts
-#EXTINF:-1,ISR=YES-Cinema-HD
-http://iptv-star.com:50100/live/skype:iptv-star@hotmail.com/rRzUZJfpxD/1546.ts
-#EXTINF:-1,ISR=YES-Comedy-HD
-http://iptv-star.com:50100/live/skype:iptv-star@hotmail.com/rRzUZJfpxD/1547.ts
-#EXTINF:-1,ISR=YES-DOCU-HD
-http://iptv-star.com:50100/live/skype:iptv-star@hotmail.com/rRzUZJfpxD/1550.ts
-#EXTINF:-1,ISR=YES-Drama-HD
-http://iptv-star.com:50100/live/skype:iptv-star@hotmail.com/rRzUZJfpxD/1548.ts
-#EXTINF:-1,ISR=YES-OH-HD
-http://iptv-star.com:50100/live/skype:iptv-star@hotmail.com/rRzUZJfpxD/1549.ts
-#EXTINF:-1,ISR=YES-Sports-1-HD
-http://iptv-star.com:50100/live/skype:iptv-star@hotmail.com/rRzUZJfpxD/1536.ts
-#EXTINF:-1,ISR=YES-Sports-2-HD
-http://iptv-star.com:50100/live/skype:iptv-star@hotmail.com/rRzUZJfpxD/1537.ts
-#EXTINF:-1,ISR=YES-Sports-5-HD
-http://iptv-star.com:50100/live/skype:iptv-star@hotmail.com/rRzUZJfpxD/1538.ts
-#EXTINF:-1,ISR=YES-Sports-5-Live-HD
-http://iptv-star.com:50100/live/skype:iptv-star@hotmail.com/rRzUZJfpxD/1539.ts
 #EXTINF:-1,2 : Ch 2
 http://109.67.71.20:9981/stream/channel/126469be5f2d51f47f08dd844e0c3ff1?ticket=76BF457B8DFDFBEABB9241C0EE6825587489567B
-#EXTINF:-1,VIP IL: YES SPORT2 HD
-http://link.softiptv.com:2500/live/karl/karl/4927.ts
-#EXTINF:-1,VIP IL: YES SPORT1 HD
-http://link.softiptv.com:2500/live/karl/karl/4926.ts
-#EXTINF:-1,VIP IL: HOP iptvsource_com
-http://link.softiptv.com:2500/live/karl/karl/4924.ts
-#EXTINF:-1,VIP IL: YES 4 HD
-http://link.softiptv.com:2500/live/karl/karl/4923.ts
-#EXTINF:-1,VIP IL: YES 3 HD
-http://link.softiptv.com:2500/live/karl/karl/4922.ts
-#EXTINF:-1,VIP IL: YES 2 HD
-http://link.softiptv.com:2500/live/karl/karl/4921.ts
-#EXTINF:-1,VIP IL: YES 1 HD
-http://link.softiptv.com:2500/live/karl/karl/4920.ts
-#EXTINF:-1,VIP IL: ONE HD
-http://link.softiptv.com:2500/live/karl/karl/4925.ts
-#EXTINF:-1,VIP IL: GOLD HD
-http://link.softiptv.com:2500/live/karl/karl/4915.ts
-#EXTINF:-1,VIP IL: HOT3 HD
-http://link.softiptv.com:2500/live/karl/karl/4937.ts
-#EXTINF:-1,VIP IL: BABY TV
-http://link.softiptv.com:2500/live/karl/karl/5422.ts
-#EXTINF:-1,VIP IL: Channel 9
-http://link.softiptv.com:2500/live/karl/karl/4918.ts
-#EXTINF:-1,VIP IL: Channel 20
-http://link.softiptv.com:2500/live/karl/karl/4919.ts
-#EXTINF:-1,VIP IL: Channel 2
-http://link.softiptv.com:2500/live/karl/karl/4916.ts
-#EXTINF:-1,VIP IL: Channel 10
-http://link.softiptv.com:2500/live/karl/karl/4917.ts
-#EXTINF:-1,VIP IL: Nick Jr
-http://link.softiptv.com:2500/live/karl/karl/5338.ts
-#EXTINF:-1,VIP IL: Nickelodeon
-http://link.softiptv.com:2500/live/karl/karl/5263.ts
-#EXTINF:-1,CANAL ORBE21
-http://93.158.220.145:5001/play/a05u
-#EXTINF:-1,BEINLALIGA8
-http://93.158.220.145:5001/play/a05i
-#EXTINF:-1,ES | FOX LIFE HD
-http://93.158.220.145:5001/play/a05c
-#EXTINF:-1,ES | COMEDYCENTRALHD
-http://93.158.220.145:5001/play/a05g
+
+#EXTINF:-1 tvg-id="" tvg-name="VIP IL: YES SPORT2 HD" tvg-logo="" group-title="YES HD",VIP IL: YES SPORT2 HD
+http://link.softiptv.com:2500/live/cGuMagEi2n/sLbn2Dqvlp/4927.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP IL: YES SPORT1 HD" tvg-logo="" group-title="YES HD",VIP IL: YES SPORT1 HD
+http://link.softiptv.com:2500/live/cGuMagEi2n/sLbn2Dqvlp/4926.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP IL: HOP" tvg-logo="" group-title="YES HD",VIP IL: HOP
+http://link.softiptv.com:2500/live/cGuMagEi2n/sLbn2Dqvlp/4924.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP IL: YES 4 HD" tvg-logo="" group-title="YES HD",VIP IL: YES 4 HD
+http://link.softiptv.com:2500/live/cGuMagEi2n/sLbn2Dqvlp/4923.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP IL: YES 3 HD" tvg-logo="" group-title="YES HD",VIP IL: YES 3 HD
+http://link.softiptv.com:2500/live/cGuMagEi2n/sLbn2Dqvlp/4922.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP IL: YES 2 HD" tvg-logo="" group-title="YES HD",VIP IL: YES 2 HD
+http://link.softiptv.com:2500/live/cGuMagEi2n/sLbn2Dqvlp/4921.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP IL: YES 1 HD" tvg-logo="" group-title="YES HD",VIP IL: YES 1 HD
+http://link.softiptv.com:2500/live/cGuMagEi2n/sLbn2Dqvlp/4920.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP IL: ONE HD" tvg-logo="" group-title="YES HD",VIP IL: ONE HD
+http://link.softiptv.com:2500/live/cGuMagEi2n/sLbn2Dqvlp/4925.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP IL: GOLD HD" tvg-logo="" group-title="YES HD",VIP IL: GOLD HD
+http://link.softiptv.com:2500/live/cGuMagEi2n/sLbn2Dqvlp/4915.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP IL: HOT3 HD" tvg-logo="" group-title="YES HD",VIP IL: HOT3 HD
+http://link.softiptv.com:2500/live/cGuMagEi2n/sLbn2Dqvlp/4937.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP IL: BABY TV" tvg-logo="" group-title="YES HD",VIP IL: BABY TV
+http://link.softiptv.com:2500/live/cGuMagEi2n/sLbn2Dqvlp/5422.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP IL: Channel 9" tvg-logo="" group-title="YES HD",VIP IL: Channel 9
+http://link.softiptv.com:2500/live/cGuMagEi2n/sLbn2Dqvlp/4918.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP IL: Channel 20" tvg-logo="" group-title="YES HD",VIP IL: Channel 20
+http://link.softiptv.com:2500/live/cGuMagEi2n/sLbn2Dqvlp/4919.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP IL: Channel 2" tvg-logo="" group-title="YES HD",VIP IL: Channel 2
+http://link.softiptv.com:2500/live/cGuMagEi2n/sLbn2Dqvlp/4916.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP IL: Channel 10" tvg-logo="" group-title="YES HD",VIP IL: Channel 10
+http://link.softiptv.com:2500/live/cGuMagEi2n/sLbn2Dqvlp/4917.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP IL: Nick Jr" tvg-logo="" group-title="YES HD",VIP IL: Nick Jr
+http://link.softiptv.com:2500/live/cGuMagEi2n/sLbn2Dqvlp/5338.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP IL: Nickelodeon" tvg-logo="" group-title="YES HD",VIP IL: Nickelodeon
+http://link.softiptv.com:2500/live/cGuMagEi2n/sLbn2Dqvlp/5263.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: TELECINCO HD" tvg-logo="" group-title="SPAIN",ES: TELECINCO HD
+http://link.softiptv.com:2500/live/cGuMagEi2n/sLbn2Dqvlp/4975.ts
+#EXTINF:-1 tvg-id="" tvg-name="====== MUSIC | Mix =======" tvg-logo="" group-title="Music",====== MUSIC | Mix =======
+http://link.softiptv.com:2500/live/cGuMagEi2n/sLbn2Dqvlp/5627.ts
+#EXTINF:-1 tvg-id="" tvg-name="Music | NRJ HITS HD" tvg-logo="" group-title="Music",Music | NRJ HITS HD
+http://link.softiptv.com:2500/live/cGuMagEi2n/sLbn2Dqvlp/5628.ts
+#EXTINF:-1 tvg-id="" tvg-name="Music | MTV Hits HD" tvg-logo="" group-title="Music",Music | MTV Hits HD
+http://link.softiptv.com:2500/live/cGuMagEi2n/sLbn2Dqvlp/5629.ts
+#EXTINF:-1 tvg-id="" tvg-name="Music | MTV Dance HD" tvg-logo="" group-title="Music",Music | MTV Dance HD
+http://link.softiptv.com:2500/live/cGuMagEi2n/sLbn2Dqvlp/5633.ts
