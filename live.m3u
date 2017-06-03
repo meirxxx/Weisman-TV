@@ -3,7 +3,10 @@
 #EXTINF:-1,----------------- WEISMAN TV-------------------
 #EXTINF:-1,2 : Ch 2
 http://109.67.71.20:9981/stream/channel/126469be5f2d51f47f08dd844e0c3ff1?ticket=76BF457B8DFDFBEABB9241C0EE6825587489567B
-
+#EXTINF:-1,VIP IL: Nick Jr
+http://link.softiptv.com:2500/live/karl/karl/5338.ts
+#EXTINF:-1,VIP IL: Nickelodeon
+http://link.softiptv.com:2500/live/karl/karl/5263.ts
 #EXTINF:-1 tvg-id="" tvg-name="VIP IL: YES SPORT2 HD" tvg-logo="" group-title="YES HD",VIP IL: YES SPORT2 HD
 http://link.softiptv.com:2500/live/cGuMagEi2n/sLbn2Dqvlp/4927.ts
 #EXTINF:-1 tvg-id="" tvg-name="VIP IL: YES SPORT1 HD" tvg-logo="" group-title="YES HD",VIP IL: YES SPORT1 HD
