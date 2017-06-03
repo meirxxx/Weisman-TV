@@ -1,8 +1,6 @@
 # Weisman-TV
 #EXTM3U
 #EXTINF:-1,----------------- WEISMAN TV-------------------
-#EXTINF:-1,Sport5 1 (Israel)
-rtmp://$OPT:rtmp-raw=rtmp://s5-s.nsacdn.com:1935/sport5_Live1Repeat/Live1_1 swfUrl=http://playern.sport5.co.il/Plugins/RTMPPlugin.swf pageUrl=http://playern.sport5.co.il/Player.aspx?clipId=Live1&Type=live
 #EXTINF:-1 tvg-id="" tvg-name="VIP IL: YES SPORT2 HD" tvg-logo="" group-title="YES HD",VIP IL: YES SPORT2 HD
 http://link.softiptv.com:2500/live/cGuMagEi2n/sLbn2Dqvlp/4927.ts
 #EXTINF:-1 tvg-id="" tvg-name="VIP IL: YES SPORT1 HD" tvg-logo="" group-title="YES HD",VIP IL: YES SPORT1 HD
@@ -47,19 +45,11 @@ http://link.softiptv.com:2500/live/cGuMagEi2n/sLbn2Dqvlp/5628.ts
 http://link.softiptv.com:2500/live/cGuMagEi2n/sLbn2Dqvlp/5629.ts
 #EXTINF:-1 tvg-id="" tvg-name="Music | MTV Dance HD" tvg-logo="" group-title="Music",Music | MTV Dance HD
 http://link.softiptv.com:2500/live/cGuMagEi2n/sLbn2Dqvlp/5633.ts
-#EXTM3U
-#EXTINF:-1,YES:YES_1_HD
-http://universeiptv.com:8000/live/Ayman/Ayman123/1958.ts
-#EXTINF:-1,YES:YES_2_HD
-http://universeiptv.com:8000/live/Ayman/Ayman123/1959.ts
-#EXTINF:-1,YES:YES_3_HD
-http://universeiptv.com:8000/live/Ayman/Ayman123/1960.ts
-#EXTINF:-1,YES:YES_4_HD
-http://universeiptv.com:8000/live/Ayman/Ayman123/1961.ts
-#EXTINF:-1,YES:YES_5_HD
-http://universeiptv.com:8000/live/Ayman/Ayman123/1962.ts
-#EXTINF:-1,YES:YES_ACTION_HD
-http://universeiptv.com:8000/live/Ayman/Ayman123/1966.ts
-#EXTINF:-1,YES:YES_CINEMA_HD
-http://universeiptv.com:8000/live/Ayman/Ayman123/3256.ts
-#EXTINF:-1,YES:YES_COMEDY_HD
+#EXTINF:-1,Channel 2
+http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/index_550_av-b.m3u8
+#EXTINF:-1,Reshet
+http://reshet207788-i.akamaihd.net/hls/live/207509/live/high.m3u8
+#EXTINF:-1,Keseht
+http://keshethlslive-lh.akamaihd.net/i/lin1_1@364366/master.m3u8
+#EXTINF:-1, Music 24
+http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_2000_av-b.m3u8
