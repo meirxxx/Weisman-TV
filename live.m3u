@@ -1,4 +1,5 @@
 # Weisman-TV
+#EXTINF:-1,-------------Weisman's TV LIVE---------
 #EXTINF:-1 tvg-id="1542" tvg-name="1542" group-title="Israel" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1542.png",Israel: Baby IL (1542)
 http://api10.apollogroup.tv/play/?vlc=1&channel=1542&token=6kpvDPL9URoe:YTNkNzA2MzY4ZGJjYmUwMzE5YWU4MTNkMTYxNTljMTk3MmJhNzk4NA==
 #EXTINF:-1 tvg-id="1557" tvg-name="1557" group-title="Israel" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1557.png",Israel: Channel 02 IL (1557)
@@ -101,62 +102,28 @@ http://api10.apollogroup.tv/play/?vlc=1&channel=10026&token=6kpvDPL9URoe:YTNkNzA
 http://api10.apollogroup.tv/play/?vlc=1&channel=20049&token=6kpvDPL9URoe:YTNkNzA2MzY4ZGJjYmUwMzE5YWU4MTNkMTYxNTljMTk3MmJhNzk4NA==
 #EXTINF:-1 tvg-id="1652" tvg-name="1652" group-title="Kids" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1652.png",Kids: Nickelodeon UK (1652)
 http://api10.apollogroup.tv/play/?vlc=1&channel=1652&token=6kpvDPL9URoe:YTNkNzA2MzY4ZGJjYmUwMzE5YWU4MTNkMTYxNTljMTk3MmJhNzk4NA==
-
-
-#EXTINF:-1 tvg-id="ערוץ 10" tvg-name="ערוץ_10" group-title="ישראל" tvg-logo="http://upload.wikimedia.org/wikipedia/he/archive/4/48/20120408220922!Channel_10_logo.png",ערוץ 10
-http://nana10-hdl-il-sw.ctedgecdn.net/Nana10-Live/amlst:hd_,500,1000,1200,2400,/playlist.m3u8
-
-#EXTINF:-1 tvg-id="כאן 11" tvg-name="כאן_11" group-title="ישראל" tvg-logo="https://pbs.twimg.com/profile_images/759628557555474433/IwVxLvwO.jpg",כאן 11
-rtmp://ipbc-s.vidnt.com/ipbc_IPBCchannel11LVMRepeat/IPBCchannel11LVM_3|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36
-
-#EXTINF:-1 tvg-id="ערוץ המורשת" tvg-name="ערוץ_המורשת" group-title="ישראל" tvg-logo="http://www.nrg.co.il/images/archive/300x225/1/581/251.jpg",ערוץ המורשת
-http://live.ch20-cdnwiz.com/ch20-abr/ch20-abr/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ערוץ הקניות" tvg-name="ערוץ_הקניות" group-title="ישראל" tvg-logo="http://www.nrg.co.il/images/archive/408x153/215/638.jpg",ערוץ הקניות
-rtmp://shoppingil-s.vidnt.com/shoppingil_ShoppingIL21TVRepeat/ShoppingIL21TV_3
-
-#EXTINF:-1 tvg-id="ערוץ החדשות 2" tvg-name="ערוץ_החדשות_2" group-title="ישראל" tvg-logo="http://ftp5.bizportal.co.il/web/giflib/news/ch2logo.jpg",ערוץ החדשות 2
-http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36
-
-#EXTINF:-1 tvg-id="ערוץ 2" tvg-name="ערוץ_2" group-title="ישראל" tvg-logo="http://www.themarker.com/polopoly_fs/1.593973.1297938795!/image/4142077372.jpg_gen/derivatives/landscape_468/4142077372.jpg",ערוץ 2
-http://keshethdioslive-i.akamaihd.net/hls/live/221630/CH2LIVE_HIGH/index_2296.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
-
-#EXTINF:-1 tvg-id="ערוץ 2" tvg-name="ערוץ_2" group-title="ישראל" tvg-logo="http://www.themarker.com/polopoly_fs/1.593973.1297938795!/image/4142077372.jpg_gen/derivatives/landscape_468/4142077372.jpg",ערוץ 2
-http://keshethlslive-lh.akamaihd.net/i/lin1_1@364366/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
-
-#EXTINF:-1 tvg-id="ערוץ 2" tvg-name="ערוץ_2" group-title="ישראל" tvg-logo="http://www.themarker.com/polopoly_fs/1.593973.1297938795!/image/4142077372.jpg_gen/derivatives/landscape_468/4142077372.jpg",ערוץ 2
-http://reshet207788-i.akamaihd.net/hls/live/207509/live/encoder_index.m3u8
-
-#EXTINF:-1 tvg-id="ערוץ 2" tvg-name="ערוץ_2" group-title="ישראל" tvg-logo="http://www.themarker.com/polopoly_fs/1.593973.1297938795!/image/4142077372.jpg_gen/derivatives/landscape_468/4142077372.jpg",ערוץ 2
-http://besttv1.aoslive.it.best-tv.com/reshet/studio/index_1.m3u8
-
-#EXTINF:-1 tvg-id="ערוץ 2" tvg-name="ערוץ_2" group-title="ישראל" tvg-logo="http://www.themarker.com/polopoly_fs/1.593973.1297938795!/image/4142077372.jpg_gen/derivatives/landscape_468/4142077372.jpg",ערוץ 2
-http://besttv1.aoslive.it.best-tv.com/hls-live/reshet-neveilan02/_definst_/live/stream_profile3.m3u8
-
-#EXTINF:-1 tvg-id="ערוץ המוזיקה" tvg-name="ערוץ_המוזיקה" group-title="ישראל" tvg-logo="http://www.nrg.co.il/images/archive/300x225/859/687.jpg",ערוץ המוזיקה
-http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_2000_av-b.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
-
-#EXTINF:-1 tvg-id="כאן 33" tvg-name="כאן_33" group-title="ישראל" tvg-logo="",כאן 33
-rtmp://ipbc-s.vidnt.com/ipbc_IPBCmakantvLVMRepeat/IPBCmakantvLVM_3|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
-
-#EXTINF:-1 tvg-id="ערוץ הכנסת" tvg-name="ערוץ_הכנסת" group-title="ישראל" tvg-logo="http://www.aisrael.org/_uploads/extraimg/000000000(2)(1).jpg",ערוץ הכנסת
-http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="מאירTV" tvg-name="מאירTV" group-title="ישראל" tvg-logo="https://yt3.ggpht.com/-F8XZlOJLDxc/AAAAAAAAAAI/AAAAAAAAAAA/w5Pj2IFP92E/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",מאירTV
-http://stream.meirtv.co.il:1935/live/live1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ערוץ ההידברות" tvg-name="ערוץ_ההידברות" group-title="ישראל" tvg-logo="http://www.tvland.co.il/Pics/hidabrutbig.jpg",ערוץ ההידברות
-http://stream7.shidur.net/htvlive2/_definst_/smil:live2.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ערוץ הקבלה" tvg-name="ערוץ_הקבלה" group-title="ישראל" tvg-logo="http://upload.wikimedia.org/wikipedia/he/thumb/4/47/Logo_for_banber.jpg/220px-Logo_for_banber.jpg",ערוץ הקבלה
-http://edge1.il.kab.tv/rtplive/tv66-heb-high.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ILand" tvg-name="ILand" group-title="ישראל" tvg-logo="https://yt3.ggpht.com/-05eXppZi984/AAAAAAAAAAI/AAAAAAAAAAA/wZTKn8Ip81o/s100-c-k-no/photo.jpg",ILand
-http://146.185.61.140:1935/live/myStream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Ynet Live" tvg-name="Ynet_Live" group-title="ישראל" tvg-logo="http://www.ynet.co.il/images/CENTRAL_1024_ynet_logo.png",Ynet Live
-http://ynet-lh.akamaihd.net/i/ynet_1@123290/master.m3u8
-
+#EXTINF:-1,----------------------
+#EXTINF:-1,----------------------
+#EXTINF:-1,-------------Weisman's Music---------
+#EXTINF:-1 tvg-id="502" tvg-name="502" group-title="English" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/502.png",English: MTV Base UK (502)
+http://api10.apollogroup.tv/play/?vlc=1&channel=502&token=6kpvDPL9URoe:YTNkNzA2MzY4ZGJjYmUwMzE5YWU4MTNkMTYxNTljMTk3MmJhNzk4NA==
+#EXTINF:-1 tvg-id="575" tvg-name="575" group-title="English" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/575.png",English: MTV Dance UK (575)
+http://api10.apollogroup.tv/play/?vlc=1&channel=575&token=6kpvDPL9URoe:YTNkNzA2MzY4ZGJjYmUwMzE5YWU4MTNkMTYxNTljMTk3MmJhNzk4NA==
+#EXTINF:-1 tvg-id="548" tvg-name="548" group-title="English" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/548.png",English: MTV Hits UK (548)
+http://api10.apollogroup.tv/play/?vlc=1&channel=548&token=6kpvDPL9URoe:YTNkNzA2MzY4ZGJjYmUwMzE5YWU4MTNkMTYxNTljMTk3MmJhNzk4NA==
+#EXTINF:-1 tvg-id="144" tvg-name="144" group-title="English" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/144.png",English: MTV Live HD (144)
+http://api10.apollogroup.tv/play/?vlc=1&channel=144&token=6kpvDPL9URoe:YTNkNzA2MzY4ZGJjYmUwMzE5YWU4MTNkMTYxNTljMTk3MmJhNzk4NA==
+#EXTINF:-1 tvg-id="509" tvg-name="509" group-title="English" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/509.png",English: MTV Music UK (509)
+http://api10.apollogroup.tv/play/?vlc=1&channel=509&token=6kpvDPL9URoe:YTNkNzA2MzY4ZGJjYmUwMzE5YWU4MTNkMTYxNTljMTk3MmJhNzk4NA==
+#EXTINF:-1 tvg-id="510" tvg-name="510" group-title="English" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/510.png",English: MTV Rocks UK (510)
+http://api10.apollogroup.tv/play/?vlc=1&channel=510&token=6kpvDPL9URoe:YTNkNzA2MzY4ZGJjYmUwMzE5YWU4MTNkMTYxNTljMTk3MmJhNzk4NA==
+#EXTINF:-1 tvg-id="508" tvg-name="508" group-title="English" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/508.png",English: MTV UK (508)
+http://api10.apollogroup.tv/play/?vlc=1&channel=508&token=6kpvDPL9URoe:YTNkNzA2MzY4ZGJjYmUwMzE5YWU4MTNkMTYxNTljMTk3MmJhNzk4NA==
+#EXTINF:-1 tvg-id="562" tvg-name="562" group-title="English" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/562.png",English: MTV Xmas UK (562)
+http://api10.apollogroup.tv/play/?vlc=1&channel=562&token=6kpvDPL9URoe:YTNkNzA2MzY4ZGJjYmUwMzE5YWU4MTNkMTYxNTljMTk3MmJhNzk4NA==
+#EXTINF:-1,----------------------
+#EXTINF:-1,----------------------
+#EXTINF:-1,-------------Weisman's Radio---------
 #EXTINF:-1 tvg-id="88FM" tvg-name="88FM" group-title="רדיו" tvg-logo="http://upload.wikimedia.org/wikipedia/he/1/10/Radio88FM.jpg" radio="true",88FM
 http://radiocast-rr-d.vidnt.com:8000/ipbc_IPBC88LAM
 
@@ -378,3 +345,59 @@ http://radiocast-rr-d.vidnt.com:8000/ipbc_IPBCClassicLA
 
 #EXTINF:-1 tvg-id="כאן - אלטרנטיב" tvg-name="כאן_-_אלטרנטיב" group-title="רדיו" tvg-logo="http://www.kolhazman.co.il/wp-content/uploads/thumbs/2195849-18-31yq7kthc2dnyutwmi45qi.jpg" radio="true",כאן - אלטרנטיב
 http://radiocast-rr-d.vidnt.com:8000/ipbc_IPBCAlternativeLA
+#EXTINF:-1,----------------------
+#EXTINF:-1,----------------------
+#EXTINF:-1,-------------MORE TV LIVES---------
+#EXTINF:-1 tvg-id="ערוץ 10" tvg-name="ערוץ_10" group-title="ישראל" tvg-logo="http://upload.wikimedia.org/wikipedia/he/archive/4/48/20120408220922!Channel_10_logo.png",ערוץ 10
+http://nana10-hdl-il-sw.ctedgecdn.net/Nana10-Live/amlst:hd_,500,1000,1200,2400,/playlist.m3u8
+
+#EXTINF:-1 tvg-id="כאן 11" tvg-name="כאן_11" group-title="ישראל" tvg-logo="https://pbs.twimg.com/profile_images/759628557555474433/IwVxLvwO.jpg",כאן 11
+rtmp://ipbc-s.vidnt.com/ipbc_IPBCchannel11LVMRepeat/IPBCchannel11LVM_3|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36
+
+#EXTINF:-1 tvg-id="ערוץ המורשת" tvg-name="ערוץ_המורשת" group-title="ישראל" tvg-logo="http://www.nrg.co.il/images/archive/300x225/1/581/251.jpg",ערוץ המורשת
+http://live.ch20-cdnwiz.com/ch20-abr/ch20-abr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ערוץ הקניות" tvg-name="ערוץ_הקניות" group-title="ישראל" tvg-logo="http://www.nrg.co.il/images/archive/408x153/215/638.jpg",ערוץ הקניות
+rtmp://shoppingil-s.vidnt.com/shoppingil_ShoppingIL21TVRepeat/ShoppingIL21TV_3
+
+#EXTINF:-1 tvg-id="ערוץ החדשות 2" tvg-name="ערוץ_החדשות_2" group-title="ישראל" tvg-logo="http://ftp5.bizportal.co.il/web/giflib/news/ch2logo.jpg",ערוץ החדשות 2
+http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36
+
+#EXTINF:-1 tvg-id="ערוץ 2" tvg-name="ערוץ_2" group-title="ישראל" tvg-logo="http://www.themarker.com/polopoly_fs/1.593973.1297938795!/image/4142077372.jpg_gen/derivatives/landscape_468/4142077372.jpg",ערוץ 2
+http://keshethdioslive-i.akamaihd.net/hls/live/221630/CH2LIVE_HIGH/index_2296.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
+
+#EXTINF:-1 tvg-id="ערוץ 2" tvg-name="ערוץ_2" group-title="ישראל" tvg-logo="http://www.themarker.com/polopoly_fs/1.593973.1297938795!/image/4142077372.jpg_gen/derivatives/landscape_468/4142077372.jpg",ערוץ 2
+http://keshethlslive-lh.akamaihd.net/i/lin1_1@364366/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
+
+#EXTINF:-1 tvg-id="ערוץ 2" tvg-name="ערוץ_2" group-title="ישראל" tvg-logo="http://www.themarker.com/polopoly_fs/1.593973.1297938795!/image/4142077372.jpg_gen/derivatives/landscape_468/4142077372.jpg",ערוץ 2
+http://reshet207788-i.akamaihd.net/hls/live/207509/live/encoder_index.m3u8
+
+#EXTINF:-1 tvg-id="ערוץ 2" tvg-name="ערוץ_2" group-title="ישראל" tvg-logo="http://www.themarker.com/polopoly_fs/1.593973.1297938795!/image/4142077372.jpg_gen/derivatives/landscape_468/4142077372.jpg",ערוץ 2
+http://besttv1.aoslive.it.best-tv.com/reshet/studio/index_1.m3u8
+
+#EXTINF:-1 tvg-id="ערוץ 2" tvg-name="ערוץ_2" group-title="ישראל" tvg-logo="http://www.themarker.com/polopoly_fs/1.593973.1297938795!/image/4142077372.jpg_gen/derivatives/landscape_468/4142077372.jpg",ערוץ 2
+http://besttv1.aoslive.it.best-tv.com/hls-live/reshet-neveilan02/_definst_/live/stream_profile3.m3u8
+
+#EXTINF:-1 tvg-id="ערוץ המוזיקה" tvg-name="ערוץ_המוזיקה" group-title="ישראל" tvg-logo="http://www.nrg.co.il/images/archive/300x225/859/687.jpg",ערוץ המוזיקה
+http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_2000_av-b.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
+
+#EXTINF:-1 tvg-id="כאן 33" tvg-name="כאן_33" group-title="ישראל" tvg-logo="",כאן 33
+rtmp://ipbc-s.vidnt.com/ipbc_IPBCmakantvLVMRepeat/IPBCmakantvLVM_3|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
+
+#EXTINF:-1 tvg-id="ערוץ הכנסת" tvg-name="ערוץ_הכנסת" group-title="ישראל" tvg-logo="http://www.aisrael.org/_uploads/extraimg/000000000(2)(1).jpg",ערוץ הכנסת
+http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="מאירTV" tvg-name="מאירTV" group-title="ישראל" tvg-logo="https://yt3.ggpht.com/-F8XZlOJLDxc/AAAAAAAAAAI/AAAAAAAAAAA/w5Pj2IFP92E/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",מאירTV
+http://stream.meirtv.co.il:1935/live/live1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ערוץ ההידברות" tvg-name="ערוץ_ההידברות" group-title="ישראל" tvg-logo="http://www.tvland.co.il/Pics/hidabrutbig.jpg",ערוץ ההידברות
+http://stream7.shidur.net/htvlive2/_definst_/smil:live2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ערוץ הקבלה" tvg-name="ערוץ_הקבלה" group-title="ישראל" tvg-logo="http://upload.wikimedia.org/wikipedia/he/thumb/4/47/Logo_for_banber.jpg/220px-Logo_for_banber.jpg",ערוץ הקבלה
+http://edge1.il.kab.tv/rtplive/tv66-heb-high.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ILand" tvg-name="ILand" group-title="ישראל" tvg-logo="https://yt3.ggpht.com/-05eXppZi984/AAAAAAAAAAI/AAAAAAAAAAA/wZTKn8Ip81o/s100-c-k-no/photo.jpg",ILand
+http://146.185.61.140:1935/live/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Ynet Live" tvg-name="Ynet_Live" group-title="ישראל" tvg-logo="http://www.ynet.co.il/images/CENTRAL_1024_ynet_logo.png",Ynet Live
+http://ynet-lh.akamaihd.net/i/ynet_1@123290/master.m3u8
